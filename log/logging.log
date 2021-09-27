@@ -1,0 +1,31 @@
+2021-09-27 12:24:45 INFO  LoggerHelper:42 - Add Filters to SearchProducts
+  2021-09-27 12:24:55 INFO  LoggerHelper:51 - Add Compare to SearchProducts
+  2021-09-27 12:26:00 INFO  LoggerHelper:33 - Driver is Setup
+  2021-09-27 12:26:17 INFO  LoggerHelper:40 - URL is opened
+  2021-09-27 12:34:26 INFO  LoggerHelper:42 - Add Filters to SearchProducts
+  2021-09-27 12:34:30 INFO  LoggerHelper:51 - Add Compare to SearchProducts
+  2021-09-27 12:36:11 INFO  LoggerHelper:33 - Driver is Setup
+  2021-09-27 12:36:34 INFO  LoggerHelper:40 - URL is opened
+  2021-09-27 12:39:42 INFO  LoggerHelper:35 - SearchProducts
+  2021-09-27 12:39:54 INFO  LoggerHelper:44 - Add Filters to SearchProducts
+  2021-09-27 12:41:38 INFO  LoggerHelper:38 - SearchProducts
+  2021-09-27 12:46:29 INFO  LoggerHelper:42 - Add Filters to SearchProducts
+  2021-09-27 12:46:39 INFO  LoggerHelper:51 - Add Compare to SearchProducts
+  2021-09-27 16:11:30 INFO  LoggerHelper:42 - Add Filters to SearchProducts
+  2021-09-27 16:11:40 INFO  LoggerHelper:51 - Add Compare to SearchProducts
+  2021-09-27 16:17:25 INFO  LoggerHelper:33 - Driver is Setup
+  2021-09-27 16:35:31 INFO  LoggerHelper:49 - Add Filters to SearchProducts
+  2021-09-27 16:35:31 INFO  LoggerHelper:63 - Add Compare to SearchProducts
+  2021-09-27 16:36:16 INFO  LoggerHelper:33 - Driver is Setup
+  2021-09-27 16:36:34 INFO  LoggerHelper:40 - URL is opened
+  2021-09-27 16:37:58 INFO  LoggerHelper:35 - SearchProducts
+  2021-09-27 16:38:05 INFO  LoggerHelper:44 - Add Filters to SearchProducts
+  2021-09-27 16:39:00 INFO  LoggerHelper:38 - SearchProducts
+  2021-09-27 16:48:31 INFO  LoggerHelper:49 - Add Filters to SearchProducts
+  2021-09-27 16:48:31 INFO  LoggerHelper:63 - Add Compare to SearchProducts
+  2021-09-27 16:49:02 INFO  LoggerHelper:33 - Driver is Setup
+  2021-09-27 16:49:05 INFO  LoggerHelper:40 - URL is opened
+  2021-09-27 16:49:49 INFO  LoggerHelper:35 - SearchProducts
+  2021-09-27 16:49:53 INFO  LoggerHelper:44 - Add Filters to SearchProducts
+  2021-09-27 16:50:32 INFO  LoggerHelper:38 - SearchProducts
+  
